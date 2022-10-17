@@ -18,9 +18,9 @@ const router = createRouter({
       name: 'cityView',
       component: cityView,
       meta: {
-        title: "Weater"
+        title: "Weather"
       }
-    }
+    },
   ]
 })
 
